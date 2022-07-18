@@ -17,8 +17,8 @@ After downloading the data from kaggle has a csv file i went to power bi check t
 
 # Data analysis/visualization 
 In the visualization panel we would be providing answers to the above set questions 
-# a)The total Number of fatalities that has happened since 1908-2008 Is 
-# b) The total Number of aboard meaning the people that travelled through plane since 1908-2008 Is 
+# a)The total Number of fatalities that has happened since 1908-2008 Is 105k
+# b) The total Number of aboard meaning the people that travelled through plane since 1908-2008 Is 145k
 # c) The fatalities by year started in the year 1908, tho the aviation industry started in the year 1903 by the wright brothers, the deadliest year in the aviation industry is 1972 with 104 total crashes and 2,937 fatalities. Russian airlines Aeroflot had the highest death occurrence.
 ![Screenshot (9)](https://user-images.githubusercontent.com/107194160/179635471-dca52059-4609-4d2c-b1a5-0a8df99362d2.png)
 
